@@ -2,8 +2,8 @@ package main
 
 import (
 	"github.com/armory-io/terraform-provider-spinnaker/spinnaker"
-	"github.com/hashicorp/terraform/plugin"
-	"github.com/hashicorp/terraform/terraform"
+	"github.com/hashicorp/terraform/tree/main/internal/plugin"
+	"github.com/hashicorp/terraform/tree/main/internal/terraform"
 )
 
 func main() {
