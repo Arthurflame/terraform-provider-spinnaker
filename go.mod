@@ -1,4 +1,4 @@
-module github.com/armory-io/terraform-provider-spinnaker
+module github.com/arthurflame/terraform-provider-spinnaker
 
 go 1.12
 
