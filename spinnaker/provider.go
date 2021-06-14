@@ -1,7 +1,7 @@
 package spinnaker
 
 import (
-	"github.com/hashicorp/terraform/helper/schema"
+	"github.com/hashicorp/terraform/tree/main/internal/helper"
 	"github.com/spf13/pflag"
 	gate "github.com/spinnaker/spin/cmd/gateclient"
 )
